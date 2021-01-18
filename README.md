@@ -1,7 +1,7 @@
 # How-to-infect-Microsoft-Office-documents-
 How to infect Microsoft Office documents?
 
-Greetings to Hackfreaks readers!  Today we'll talk about how Microsoft Word is infected and why you shouldn't open unverified documents, pdfs, etc. Brought to you by hackfreaks official  Viruses, tracking, refs - these are exactly the things that integrate well into Word.  Usually, people do not check documents for vulnerabilities, and antiviruses do not sound the alarm, so attackers are actively using this.  We, in turn, will not embed a specific virus, but simply consider this method using the example of IPloggers : https://iplogger.org/
+Today we'll talk about how Microsoft Word is infected and why you shouldn't open unverified documents, pdfs, etc. Brought to you by hackfreaks official  Viruses, tracking, refs - these are exactly the things that integrate well into Word.  Usually, people do not check documents for vulnerabilities, and antiviruses do not sound the alarm, so attackers are actively using this.  We, in turn, will not embed a specific virus, but simply consider this method using the example of IPloggers : https://iplogger.org/
 
  Instructions:
 
